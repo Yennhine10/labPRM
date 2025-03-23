@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Màu cơ bản -->
+    <color name="black">#FF000000</color> <!-- Đen -->
+    <color name="white">#FFFFFFFF</color> <!-- Trắng -->
+    <color name="purple_700">#6200EE</color> <!-- Tím đậm -->
+
+    <!-- Màu chính -->
+    <color name="primary">#2196F3</color> <!-- Xanh dương -->
+    <color name="primary_dark">#1976D2</color> <!-- Xanh dương đậm -->
+    <color name="primary_light">#BBDEFB</color> <!-- Xanh dương nhạt -->
+    <color name="accent">#FF4081</color> <!-- Hồng đậm -->
+
+    <!-- Màu Text -->
+    <color name="text_primary">#212121</color> <!-- Đen xám đậm -->
+    <color name="text_secondary">#757575</color> <!-- Xám đậm -->
+    <color name="text_hint">#FAFAFA</color> <!-- Xám nhạt -->
+
+    <!-- Màu đỏ -->
+    <color name="red">#F44336</color> <!-- Đỏ -->
+    <color name="red_dark">#D32F2F</color> <!-- Đỏ đậm -->
+    <color name="red_light">#FFCDD2</color> <!-- Đỏ nhạt -->
+
+    <!-- Màu xanh lá -->
+    <color name="green">#4CAF50</color> <!-- Xanh lá -->
+    <color name="green_dark">#388E3C</color> <!-- Xanh lá đậm -->
+    <color name="green_light">#C8E6C9</color> <!-- Xanh lá nhạt -->
+
+    <!-- Màu vàng -->
+    <color name="yellow">#FFEB3B</color> <!-- Vàng -->
+    <color name="yellow_dark">#FBC02D</color> <!-- Vàng đậm -->
+    <color name="yellow_light">#FFF9C4</color> <!-- Vàng nhạt -->
+
+    <!-- Màu da cam -->
+    <color name="orange">#FF9800</color> <!-- Cam -->
+    <color name="orange_dark">#F57C00</color> <!-- Cam đậm -->
+    <color name="orange_light">#FFE0B2</color> <!-- Cam nhạt -->
+
+    <!-- Màu tím -->
+    <color name="purple">#9C27B0</color> <!-- Tím -->
+    <color name="purple_dark">#7B1FA2</color> <!-- Tím đậm -->
+    <color name="purple_light">#E1BEE7</color> <!-- Tím nhạt -->
+
+    <!-- Màu xanh ngọc -->
+    <color name="cyan">#00BCD4</color> <!-- Xanh ngọc -->
+    <color name="cyan_dark">#0097A7</color> <!-- Xanh ngọc đậm -->
+    <color name="cyan_light">#B2EBF2</color> <!-- Xanh ngọc nhạt -->
+
+    <!-- Màu nâu -->
+    <color name="brown">#795548</color> <!-- Nâu -->
+    <color name="brown_dark">#5D4037</color> <!-- Nâu đậm -->
+    <color name="brown_light">#D7CCC8</color> <!-- Nâu nhạt -->
+
+    <!-- Màu xám -->
+    <color name="grey">#9E9E9E</color> <!-- Xám -->
+    <color name="grey_dark">#616161</color> <!-- Xám đậm -->
+    <color name="grey_light">#F5F5F5</color> <!-- Xám nhạt -->
+
+    <!-- Màu nền -->
+    <color name="background">#FAFAFA</color> <!-- Nền trắng xám -->
+    <color name="background_dark">#303030</color> <!-- Nền tối -->
+
+    <!-- Màu trạng thái -->
+    <color name="success">#4CAF50</color> <!-- Thành công - xanh lá -->
+    <color name="warning">#FFC107</color> <!-- Cảnh báo - vàng -->
+    <color name="error">#F44336</color> <!-- Lỗi - đỏ -->
+    <color name="info">#2196F3</color> <!-- Thông tin - xanh dương -->
+</resources>

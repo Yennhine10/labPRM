@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:padding="12dp" android:background="#F5F5F5">
+
+    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical">
+
+        <TextView android:id="@+id/tv_field1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Thông tin 1" android:textColor="#212121" />
+        <TextView android:id="@+id/tv_field2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Thông tin 2" android:textColor="#212121" />
+        <TextView android:id="@+id/tv_field3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Thông tin 3" android:textColor="#212121" />
+        <TextView android:id="@+id/tv_field4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Thông tin 4" android:textColor="#212121" />
+        <TextView android:id="@+id/tv_field5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Thông tin 5" android:textColor="#212121" />
+
+
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+        <Button
+            android:id="@+id/btn_action1"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="Edit"
+            />
+        <Button
+            android:id="@+id/btn_action2"
+            android:layout_width="25dp"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_delete" />
+    </LinearLayout>
+
+</LinearLayout>
